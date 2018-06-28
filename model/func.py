@@ -41,7 +41,7 @@ def part_jieba(mypath):
 
     label_list=[] #用来存标签
     corpus_list=[] #用来存句子
-    with open(mypath) as f:
+    with open(mypath，coding='utf-8') as f:
         for line in f:
             label_list.append(line.split('\t')[0])#tab前的数字标签数字部分
             data=line.split('\t')[1]#tab后的数据部分
