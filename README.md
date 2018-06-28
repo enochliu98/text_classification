@@ -20,7 +20,7 @@ The 9 types of corresponding labels are as follows:
    66 articles were selected as the test set, the remaining 567 as training set, and 33 articles selected randomly from the training set as the validation set.
    
    **dataset**：
-   [train_set(https://github.com/EnochMHforever/text_classification/tree/master/data/raw_dataset/trainset.txt) ／
+   [train_set](https://github.com/EnochMHforever/text_classification/tree/master/data/raw_dataset/trainset.txt) ／
    [test_set](https://github.com/EnochMHforever/text_classification/tree/master/data/raw_dataset/testset.txt) ／
    [validation set](https://github.com/EnochMHforever/text_classification/tree/master/data/raw_dataset/valid.txt)
    
