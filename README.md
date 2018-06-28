@@ -3,7 +3,7 @@
 
 - Python 3.5
 - pyltp || jieba
-- Numpy
+- sklearn
 
 ## corpus
   We use the----ACE corpus, which is commonly used in event extraction, as our original dataset.
